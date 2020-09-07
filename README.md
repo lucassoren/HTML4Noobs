@@ -22,7 +22,7 @@ O intuito desse projeto é ajudar os iniciantes a como usar o HTML de uma forma 
 9. [Tags de Multimídia](contents/9.Multimidia.md)
 10. [Tags de Formulário](contents/10.Formulario.md)
 11. [Tags de Tabela](contents/11.Tabela.md)
-12. [Tags de Estilo e SCript](contents/12.Estilo.md)
+12. [Tags de Estilo e Script](contents/12.Estilo.md)
 13. [Projeto](contents/13.Projeto.md)
 
 # Como Contribuir
