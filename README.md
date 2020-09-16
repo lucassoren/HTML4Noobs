@@ -14,7 +14,7 @@ O intuito desse projeto é ajudar os iniciantes a como usar o HTML de uma forma 
     - O que são?
     - Tags Básicas
 3. [Tags Estruturais](contents/3.Estruturais.md)
-4. [Tags Texto](contents/4.Texto.md)
+4. [Tags de Texto](contents/4.Texto.md)
 5. [Atributos](contents/5.Atributos.md)
 6. [Comentários](contents/6.Comentarios.md)
 7. [Tags de Link](contents/7.Link.md)
@@ -50,6 +50,7 @@ são **extremamente apreciadas**!
     <td align="center"><a href="https://twitter.com/Luis_Nadachi"><img src="https://avatars3.githubusercontent.com/u/51420622?s=460&u=cf47bc8eccd1fcc03c7a2986ea13f0436eb01721&v=4" width="100px;" alt=""/><br /><sub><b>Nadachi</b></sub></a><br /><a href="https://github.com/Luisnadachi" title="Code">💻</a></td>
     <td align="center"><a href="https://twitter.com/sorenhe4rt"><img src="https://avatars2.githubusercontent.com/u/61706097?s=400&u=75bf7ae7f36b5d3eb6161d92b2a9ac4f895987fc&v=4" width="100px;" alt=""/><br /><sub><b>SorenHe4rt</b></sub></a><br /><a href="https://github.com/sorenhe4rt" title="Code">💻</a></td>
     <td align="center"><a href="https://twitter.com/zxpedro_"><img src="https://avatars0.githubusercontent.com/u/54921618?s=460&u=bc793b19a397d29b734ea898a38d9f8d5afc1afe&v=4" width="100px;" alt=""/><br /><sub><b>ZxPedro</b></sub></a><br /><a href="https://github.com/ZxPedro" title="Code">💻</a></td>
+    <td align="center"><a href="https://twitter.com/zxpedro_"><img src="https://avatars3.githubusercontent.com/u/61285566?s=400&u=e3b596dd9f4f1235023224afc56b15e943c98b34&v=4" width="100px;" alt=""/><br /><sub><b>SrRenato</b></sub></a><br /><a href="https://github.com/SrRenato" title="Code">💻</a></td>
 
   </tr>
 </table>
