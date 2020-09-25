@@ -1,5 +1,9 @@
 <h1 align = "center"> Bem vindo ao HTML4Noobs! </h1>
 
+<h1 align = "center">
+<img src = assets/html.png width = 300px height = 300px>
+</h1>
+
 # Sobre o Repositório
 
 O intuito desse projeto é ajudar os iniciantes a como usar o HTML de uma forma simples e totalmente gratuita.
@@ -42,6 +46,8 @@ são **extremamente apreciadas**!
 - **Luis Eduardo (Nadachi)** - _Developer_ - [Twitter](https://twitter.com/Luis_Nadachi) | [LinkedIn](https://www.linkedin.com/in/luis-eduardo-ribeiro-teixeira-384b9819a/)
 - **Lucas (SorenHe4rt)** - _Backend Developer_ - [Twitter](https://twitter.com/sorenhe4rt) | [LinkedIn](https://www.linkedin.com/in/sorenheart/)
 - **Pedro Paulo (ZxPedro)** - _Developer_ - [Twitter](https://twitter.com/zxpedro_) | [LinkedIn](https://www.linkedin.com/in/pedropaulofc/)
+
+<p align = "center"> Made with 💜
 
 # Contribuidores
 
